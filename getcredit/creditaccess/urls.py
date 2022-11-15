@@ -8,3 +8,5 @@ urlpatterns = [
     path("about/", aboutPageView, name="about"),
     path("contact/", contactPageView, name="contact"),
     ]
+    
+
